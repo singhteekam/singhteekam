@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=singhteekam.singhteekam)
 
-<img src="https://bingimages.herokuapp.com/unsplash1" width="800" height="400">
+<!-- <img src="https://bingimages.herokuapp.com/unsplash1" width="800" height="400"> -->
