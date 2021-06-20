@@ -33,6 +33,5 @@ Here are some ideas to get you started:
   <a href="mailto:teekams10999@gmail.com">
     <img align="left" alt="Teekam Singh | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-  <br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=singhteekam.singhteekam)
