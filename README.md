@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
  - 📫 How to reach me: [My Portfolio link](http://www.singhteekam.in/)
  - My Stats: 
- - ![Github stats](https://github-readme-stats.vercel.app/api?username=singhteekam&show_icons=true&hide_border=true)
+ - ![Github stats](https://github-readme-stats.vercel.app/api?username=singhteekam&show_icons=true)
 <!--  - ![Github Stats](https://github-readme-stats.vercel.app/api?username=singhteekam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)   -->
 
 <!-- [![](https://img.shields.io/badge/Gmail-teekams10999@gmail.com-red)](mailto:teekams10999@gmail.com)
