@@ -18,7 +18,6 @@ Here are some ideas to get you started:
  - My Stats: 
  - ![Github Stats](https://github-readme-stats.vercel.app/api?username=singhteekam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
 
-[![](https://img.shields.io/badge/LinkedIn-teekam-singh-26476a185-blue)](https://www.linkedin.com/in/teekam-singh-26476a185/)
 [![](https://img.shields.io/badge/Gmail-teekams10999@gmail.com-red)](mailto:teekams10999@gmail.com)
 [![](https://img.shields.io/badge/HackerRank-singh_teekam-brightgreen)](https://www.hackerrank.com/singh_teekam)
 
