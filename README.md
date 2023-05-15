@@ -37,6 +37,6 @@ Here are some ideas to get you started:
   <br><br>
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=singhteekam.singhteekam) -->
-[![HitCount](https://hits.dwyl.com/singhteekam/singhteekam.svg?style=flat-square)](http://hits.dwyl.com/singhteekam/singhteekam)
+[![HitCount](https://hits.dwyl.com/singhteekam/singhteekam.svg?style=flat)](http://hits.dwyl.com/singhteekam/singhteekam)
 
 <!-- <img src="https://bingimages.herokuapp.com/unsplash1" width="800" height="400"> -->
